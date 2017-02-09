@@ -4,7 +4,7 @@ title: QMMS
 ---
 
 
-This page contains the schedule for the **Quantitative Marketing Methods PhD Seminar** at (Columbia Business School)[http://www8.gsb.columbia.edu/]. The purpose of the seminar is to facilitate sharing of knowledge among students on various interesting quantitative methodologies applicable in marketing.
+This page contains schedule for the Quantitative Marketing Methods PhD Seminar at [Columbia Business School](http://www8.gsb.columbia.edu/). The purpose of the seminar is to facilitate sharing of knowledge among students on various interesting quantitative methodologies applicable in marketing.
 
 <p class="message" align="right">
   <i>Note: Schedule may change without advance notice. </i>
