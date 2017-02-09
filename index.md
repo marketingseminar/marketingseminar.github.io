@@ -17,8 +17,7 @@ The purpose of the seminar is to facilitate sharing of knowledge among students 
 </p>
 
 <style>
-.lecture tr:last-child td:first-child {
-  font-weight: bold;
+.lecture tr:last-child {
   color: green;
 }
 .lecture tr:first-child {
