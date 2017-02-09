@@ -13,7 +13,7 @@ The purpose of the seminar is to facilitate sharing of knowledge among PhD and M
 <br>
 
 <p class="message" align="right">
-  <i>Note: Schedule is subject to change. </i>
+  <i>Note: Schedule is subject to change. If you have any questions, reach out to Yegor Tkachenko at ytkachenko21@gsb.columbia.edu</i>
 </p>
 
 <style>
