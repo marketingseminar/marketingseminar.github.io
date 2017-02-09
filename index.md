@@ -13,7 +13,7 @@ The purpose of the seminar is to facilitate sharing of knowledge among PhD and M
 <br>
 
 <p class="message" align="right">
-  <i>Note: Schedule is subject to change. Send questions to <a href="ytkachenko21@gsb.columbia.edu">ytkachenko21@gsb.columbia.edu</a></i>
+  <i>Note: Schedule is subject to change. Send questions to <a href="mailto:ytkachenko21@gsb.columbia.edu">ytkachenko21@gsb.columbia.edu</a></i>
 </p>
 
 <style>
