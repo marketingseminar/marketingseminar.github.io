@@ -11,7 +11,7 @@ This page contains schedule for the Quantitative Marketing Methods PhD Seminar a
 <br>
 
 <p class="message" align="right">
-  <i>Note: Schedule may change without advance notice. </i>
+  <i>Note: Schedule is subject to change. </i>
 </p>
 
 <style>
