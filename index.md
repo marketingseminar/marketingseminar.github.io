@@ -17,15 +17,12 @@ The purpose of the seminar is to facilitate sharing of knowledge among students 
 </p>
 
 <style>
-.lecture tr td:first-child {
-  width: 15%;
+.lecture tr:last-child td:first-child {
   font-weight: bold;
+  color: green;
 }
 .lecture tr:first-child {
   font-weight: bold;
-}
-.lecture tr td:nth-child(2) {
-  width: 20%;
 }
 </style>
 
