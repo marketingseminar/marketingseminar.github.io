@@ -28,7 +28,7 @@ This page contains schedule for the Quantitative Marketing Methods PhD Seminar a
 {: .table  .lecture :}
 | Date         | Time      | Room     | Topic              | Instructor | References |                           
 | Feb 7, 2017  | 5:45PM ET | Uris 327 | Gaussian Processes | [Ryan Dew](http://www.rtdew.com/) | [paper](http://doi.org/10.1098/rsta.2011.0550)
-| *Feb 28, 2017* | 5:45PM ET | Uris 327 | Deep Learning      | [Yegor Tkachenko](http://www.yegortkachenko.com/) |
+| Feb 28, 2017 | 5:45PM ET | Uris 327 | Deep Learning      | [Yegor Tkachenko](http://www.yegortkachenko.com/) |
 
 
 
