@@ -1,2 +1,2 @@
-# qmms.github.io
-Quantitative Marketing Methods PhD Seminar at Columbia Business School
+# marketingseminar.github.io
+Website for Doctoral Marketing Seminar at Columbia Business School
