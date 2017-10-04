@@ -6,7 +6,7 @@ title: Doctoral Marketing Seminar at Columbia Business School
 <br>
 <br>
 
-This is a home page of the *Doctoral Marketing Seminar* at [Columbia Business School](http://www8.gsb.columbia.edu/). We are sponsored by the [Marketing Division](http://www8.gsb.columbia.edu/faculty-research/divisions/marketing). The purpose of the seminar is to facilitate sharing of knowledge among PhD students on their research, new developments in the marketing field, and, from time to time, to welcome outside speakers.
+This is a home page of the *Doctoral Marketing Seminar* at [Columbia Business School](http://www8.gsb.columbia.edu/). We are sponsored by the [Marketing Division](http://www8.gsb.columbia.edu/faculty-research/divisions/marketing). The purpose of the seminar is to facilitate sharing of knowledge among PhD students on their research and new developments in the marketing field.
 
 <br>
 
