@@ -11,7 +11,7 @@ This is a home page of the *Doctoral Marketing Seminar* at [Columbia Business Sc
 <br>
 
 <p class="message" align="right">
-  <i>Note: Schedule is subject to change. Questions can be sent to <a href="mailto:ytkachenko21@gsb.columbia.edu">ytkachenko21@gsb.columbia.edu</a></i>
+  <i>Note: Schedule is subject to change. Questions can be sent to Yegor Tkachenko <a href="mailto:ytkachenko21@gsb.columbia.edu">ytkachenko21@gsb.columbia.edu</a></i>
 </p>
 
 <style>
