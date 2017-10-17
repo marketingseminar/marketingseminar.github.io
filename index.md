@@ -30,6 +30,7 @@ This is a home page of the *Doctoral Marketing Seminar* at [Columbia Business Sc
 | Mar 28, 2017 | 5:45PM ET | Uris 327 | Differential and Mean Field Games      | [Khaled Boughanmi](http://www8.gsb.columbia.edu/cbs-directory/phd/KBoughanmi18) |-|
 | Summer Break |  |  |  |  |
 | Oct 16, 2017 | 4:00PM ET | Uris 208 | Heterogeneity in Hidden Markov Models | [Nicolas Padilla](http://www.nicolaspadilla.com/) | - |
+| Nov 13, 2017 | 4:00PM ET | Uris 140 | Qualitative Methods in Marketing | [Travis Tae Oh](http://columbiaredlab.org/TravisOh.html) | - |
 
 
 
