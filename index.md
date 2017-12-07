@@ -31,6 +31,7 @@ This is a home page of the *Doctoral Marketing Seminar* at [Columbia Business Sc
 | Summer Break |  |  |  |  |
 | Oct 16, 2017 | 4:00PM ET | Uris 208 | Heterogeneity in Hidden Markov Models | [Nicolas Padilla](http://www.nicolaspadilla.com/) | - |
 | Nov 13, 2017 | 4:00PM ET | Uris 140 | Qualitative Methods in Marketing | [Travis Tae Oh](http://columbiaredlab.org/TravisOh.html) | [Slides](./uploads/qualitative_methods.pdf) |
-| Nov 27, 2017 | 4:00PM ET | Uris 328 | Digital Advertising in 2017 | [Benjamin M Levine](https://sites.google.com/view/benlevine) | - |
+| Nov 27, 2017 | 4:00PM ET | Uris 328 | Digital Advertising in 2017 | [Benjamin M Levine](https://sites.google.com/view/benlevine) | [Slides](./uploads/digital_ads_2017.pdf) |
+| Winter Break | | | | | |
 
 
